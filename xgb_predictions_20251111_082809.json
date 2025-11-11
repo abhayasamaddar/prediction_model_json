@@ -1,0 +1,297 @@
+{
+  "prediction_metadata": {
+    "model": "XGBoost",
+    "generated_at": "2025-11-11T08:28:09.744497",
+    "total_hours": 24
+  },
+  "predictions": [
+    {
+      "timestamp": "2025-11-11T09:23:38.226267+00:00",
+      "hour_offset": 1,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 57.53,
+        "co2": 467.99,
+        "co": 9.11,
+        "pm25": 59.98,
+        "pm10": 85.37
+      }
+    },
+    {
+      "timestamp": "2025-11-11T10:23:38.226267+00:00",
+      "hour_offset": 2,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.65,
+        "co2": 468.04,
+        "co": 9.17,
+        "pm25": 63.05,
+        "pm10": 86.15
+      }
+    },
+    {
+      "timestamp": "2025-11-11T11:23:38.226267+00:00",
+      "hour_offset": 3,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 60.95,
+        "co2": 467.99,
+        "co": 9.12,
+        "pm25": 65.33,
+        "pm10": 82.68
+      }
+    },
+    {
+      "timestamp": "2025-11-11T12:23:38.226267+00:00",
+      "hour_offset": 4,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 60.81,
+        "co2": 467.94,
+        "co": 8.95,
+        "pm25": 60.03,
+        "pm10": 81.98
+      }
+    },
+    {
+      "timestamp": "2025-11-11T13:23:38.226267+00:00",
+      "hour_offset": 5,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.38,
+        "co2": 467.96,
+        "co": 8.83,
+        "pm25": 62.91,
+        "pm10": 83.35
+      }
+    },
+    {
+      "timestamp": "2025-11-11T14:23:38.226267+00:00",
+      "hour_offset": 6,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.11,
+        "co2": 467.94,
+        "co": 8.79,
+        "pm25": 65.31,
+        "pm10": 83.11
+      }
+    },
+    {
+      "timestamp": "2025-11-11T15:23:38.226267+00:00",
+      "hour_offset": 7,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 60.93,
+        "co2": 467.99,
+        "co": 8.84,
+        "pm25": 60.02,
+        "pm10": 83.0
+      }
+    },
+    {
+      "timestamp": "2025-11-11T16:23:38.226267+00:00",
+      "hour_offset": 8,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.28,
+        "co2": 467.89,
+        "co": 8.8,
+        "pm25": 62.91,
+        "pm10": 83.72
+      }
+    },
+    {
+      "timestamp": "2025-11-11T17:23:38.226267+00:00",
+      "hour_offset": 9,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.15,
+        "co2": 467.89,
+        "co": 8.8,
+        "pm25": 65.42,
+        "pm10": 83.72
+      }
+    },
+    {
+      "timestamp": "2025-11-11T18:23:38.226267+00:00",
+      "hour_offset": 10,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.02,
+        "co2": 467.89,
+        "co": 8.8,
+        "pm25": 60.11,
+        "pm10": 83.2
+      }
+    },
+    {
+      "timestamp": "2025-11-11T19:23:38.226267+00:00",
+      "hour_offset": 11,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.23,
+        "co2": 467.89,
+        "co": 8.8,
+        "pm25": 62.93,
+        "pm10": 83.23
+      }
+    },
+    {
+      "timestamp": "2025-11-11T20:23:38.226267+00:00",
+      "hour_offset": 12,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.13,
+        "co2": 467.89,
+        "co": 8.8,
+        "pm25": 65.42,
+        "pm10": 83.12
+      }
+    },
+    {
+      "timestamp": "2025-11-11T21:23:38.226267+00:00",
+      "hour_offset": 13,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.04,
+        "co2": 467.89,
+        "co": 8.8,
+        "pm25": 60.12,
+        "pm10": 83.0
+      }
+    },
+    {
+      "timestamp": "2025-11-11T22:23:38.226267+00:00",
+      "hour_offset": 14,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.19,
+        "co2": 467.85,
+        "co": 8.8,
+        "pm25": 62.93,
+        "pm10": 83.0
+      }
+    },
+    {
+      "timestamp": "2025-11-11T23:23:38.226267+00:00",
+      "hour_offset": 15,
+      "air_quality_metrics": {
+        "temperature": 31.6,
+        "humidity": 61.15,
+        "co2": 467.85,
+        "co": 8.8,
+        "pm25": 65.42,
+        "pm10": 83.0
+      }
+    },
+    {
+      "timestamp": "2025-11-12T00:23:38.226267+00:00",
+      "hour_offset": 16,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.11,
+        "co2": 467.33,
+        "co": 8.8,
+        "pm25": 57.81,
+        "pm10": 83.25
+      }
+    },
+    {
+      "timestamp": "2025-11-12T01:23:38.226267+00:00",
+      "hour_offset": 17,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.18,
+        "co2": 467.33,
+        "co": 8.8,
+        "pm25": 66.85,
+        "pm10": 83.67
+      }
+    },
+    {
+      "timestamp": "2025-11-12T02:23:38.226267+00:00",
+      "hour_offset": 18,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.18,
+        "co2": 467.33,
+        "co": 8.8,
+        "pm25": 70.82,
+        "pm10": 83.67
+      }
+    },
+    {
+      "timestamp": "2025-11-12T03:23:38.226267+00:00",
+      "hour_offset": 19,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.18,
+        "co2": 467.33,
+        "co": 8.8,
+        "pm25": 64.03,
+        "pm10": 83.67
+      }
+    },
+    {
+      "timestamp": "2025-11-12T04:23:38.226267+00:00",
+      "hour_offset": 20,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.24,
+        "co2": 467.44,
+        "co": 8.8,
+        "pm25": 57.99,
+        "pm10": 83.59
+      }
+    },
+    {
+      "timestamp": "2025-11-12T05:23:38.226267+00:00",
+      "hour_offset": 21,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.23,
+        "co2": 467.44,
+        "co": 8.79,
+        "pm25": 66.91,
+        "pm10": 83.59
+      }
+    },
+    {
+      "timestamp": "2025-11-12T06:23:38.226267+00:00",
+      "hour_offset": 22,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.19,
+        "co2": 467.44,
+        "co": 8.79,
+        "pm25": 70.62,
+        "pm10": 83.59
+      }
+    },
+    {
+      "timestamp": "2025-11-12T07:23:38.226267+00:00",
+      "hour_offset": 23,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.25,
+        "co2": 467.92,
+        "co": 8.79,
+        "pm25": 70.97,
+        "pm10": 83.59
+      }
+    },
+    {
+      "timestamp": "2025-11-12T08:23:38.226267+00:00",
+      "hour_offset": 24,
+      "air_quality_metrics": {
+        "temperature": 31.62,
+        "humidity": 61.23,
+        "co2": 467.92,
+        "co": 8.8,
+        "pm25": 59.95,
+        "pm10": 83.59
+      }
+    }
+  ]
+}
